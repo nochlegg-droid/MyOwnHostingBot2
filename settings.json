@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Mauro Rossiello 24/7 Bot",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "VanillaCascatelle.aternos.me",
