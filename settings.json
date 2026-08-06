@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Mauro Rossiello 24/7 Bot",
     "password": "",
-    "type": "Microsoft"
+    "type": "offline"
   },
   "server": {
     "ip": "VanillaCascatelle.aternos.me",
     "port": 38516,
-    "version": "",
+    "version": 26.2,
     "try-creative": false
   },
   "position": {
